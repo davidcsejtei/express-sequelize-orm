@@ -1,0 +1,20 @@
+{
+  "development": {
+    "username": "yourname",
+    "password": "abcd1234",
+    "database": "databasename",
+    "host": "host.yourdatabase.server.com",
+    "port": "25060",
+    "define": {
+      "underscored": true,
+      "freezeTableName": true,
+      "timestamps": false
+    },
+    "dialect": "postgres",
+    "ssl": true,
+    "dialectOptions": {
+      "charset": "utf8mb4",
+      "ssl": true
+    }
+  }
+}
