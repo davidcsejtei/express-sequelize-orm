@@ -1,4 +1,6 @@
-# Boilerplate for NodeJS Express REST API projects using Sequelize ORM
+# Boilerplate for Node.js Express API projects using Sequelize ORM
+
+A boilerplate project demonstrates how to use Express with SequelizeORM (over PostgreSQL database) in JavaScript.
 
 ## Boilerplate content
 - my folder structure to keep project source code maintainable
